@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDropBox", "FileDropBox\FileDropBox.csproj", "{542596D6-AAE0-4D09-A3C3-613C73BA4311}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDropBoxTests", "FileDropBoxTests\FileDropBoxTests.csproj", "{FBF9121D-39AC-4152-8DFF-8C85DDA0FDC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{542596D6-AAE0-4D09-A3C3-613C73BA4311}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{542596D6-AAE0-4D09-A3C3-613C73BA4311}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{542596D6-AAE0-4D09-A3C3-613C73BA4311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF9121D-39AC-4152-8DFF-8C85DDA0FDC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF9121D-39AC-4152-8DFF-8C85DDA0FDC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF9121D-39AC-4152-8DFF-8C85DDA0FDC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF9121D-39AC-4152-8DFF-8C85DDA0FDC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
